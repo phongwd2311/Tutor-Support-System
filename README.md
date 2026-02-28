@@ -84,7 +84,7 @@ npm run dev
    Git Workflow: Follows strict branching strategies (main, dev, feature/*). Pull Requests are mandatory for merging into production branches.
 📬 Contact
 For any questions or collaboration, feel free to reach out:
-Name: Võ Quốc Phong
-Email: vo.quoc.phong.qt@gmail.com
-Phone: 0942 059 127
-GitHub: github.com/phongwd2311
+* Name: Võ Quốc Phong
+* Email: vo.quoc.phong.qt@gmail.com
+* Phone: 0942 059 127
+* GitHub: github.com/phongwd2311
