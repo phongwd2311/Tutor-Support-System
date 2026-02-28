@@ -79,9 +79,11 @@ npm install
 npm run dev
 # Frontend application runs at: http://localhost:5173
 ```
+
 📏 Code Standards & Workflow
  * ESLint: Custom rules enforced for clean code (Single quotes, 2-space indentation, strict React Hooks usage).
  * Git Workflow: Follows strict branching strategies (main, dev, feature/*). Pull Requests are mandatory for merging into production branches.
+
 📬 Contact
 For any questions or collaboration, feel free to reach out:
 * Name: Võ Quốc Phong
